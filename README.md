@@ -10,3 +10,5 @@ If you have more than one server behind your firewall/NAT that is using your let
 
 5. Make sure that all the domain names and key locations in the script match up. You should only have to do this once. 
 6. #Profit. 
+
+Tags: Certbot, EFF, Cert Bot, Security, Private Keys, Cron, apache,ssh
